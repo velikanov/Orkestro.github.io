@@ -2,12 +2,12 @@
   url: training
   anchor: true
 
-- name: Консалтинг
-  url: knowledge
-  anchor: true
-
 - name: Разработка
   url: development
+  anchor: true
+
+- name: Консалтинг
+  url: knowledge
   anchor: true
 
 - name: Контакты
